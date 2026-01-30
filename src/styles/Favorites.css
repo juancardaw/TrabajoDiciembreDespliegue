@@ -1,0 +1,22 @@
+/* src/styles/Favorites.css */
+.favorites {
+  margin-bottom: 1rem;
+}
+
+.favorites ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.favorites li {
+  margin-bottom: 0.5rem;
+}
+
+.delete-btn {
+  margin-left: 0.5rem;
+  background-color: #cc0000;
+}
+
+.delete-btn:hover {
+  background-color: #990000;
+}

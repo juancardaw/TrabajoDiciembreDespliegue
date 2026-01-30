@@ -7,7 +7,7 @@ He creado una aplicación web desarrollada en **React** utilizando **Vite**. Per
 
 ---
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **React**: para construir la interfaz por componentes y manejar estados.
 - **Vite**: para crear un proyecto rápido y con build optimizado.
@@ -16,7 +16,7 @@ He creado una aplicación web desarrollada en **React** utilizando **Vite**. Per
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ProyectoDiciembre/
 │
